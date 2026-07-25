@@ -1,9 +1,5 @@
 # Sistema Experto — Recomendador de Cultivos Agrícolas (Colombia)
 
-> Esta es la documentación de la versión **de archivo único**
-> (`motor_inferencia_cultivos.py`), previa a la modularización del
-> proyecto en el paquete `sistema_experto_cultivos/`.
-
 Sistema experto que recomienda el cultivo mejor adaptado a un perfil de
 usuario (región, altitud, pH del suelo, clima y presupuesto), usando un
 motor de inferencia por **matching multicriterio ponderado** (forward

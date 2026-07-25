@@ -1,0 +1,162 @@
+{
+  "hechos": {
+    "region": "Andina",
+    "msnm": 1500.0,
+    "ph": 5.5,
+    "clima": "Templado",
+    "presupuesto_millones": 5000000.0,
+    "terreno": "ondulado"
+  },
+  "ranking": [
+    {
+      "cultivo": "Plátano",
+      "compatibilidad": 91.0,
+      "detalle": {
+        "msnm": 100.0,
+        "ph": 100.0,
+        "clima": 100.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "0.8 a 1",
+      "rentabilidad": "Media. Demanda interna constante y ciclo corto (primera cosecha antes del año), lo que da flujo de caja más rápido que los frutales perennes.",
+      "cuidados": "Deshoje, desmache y apuntalado para evitar caída por viento; control constante de sigatoka negra y fusarium raza 4 tropical.",
+      "presupuesto_sugerido": "$10M - $15M COP/ha"
+    },
+    {
+      "cultivo": "Café",
+      "compatibilidad": 91.0,
+      "detalle": {
+        "msnm": 100.0,
+        "ph": 100.0,
+        "clima": 100.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "2 a 3",
+      "rentabilidad": "Media-alta. Mercado global consolidado; posibilidad de precios premium si es café especial u orgánico. Requiere inversión constante en mano de obra para la recolección selectiva anual.",
+      "cuidados": "Recolección manual selectiva muy intensiva en mano de obra; monitoreo constante de roya y broca; fertilización 2-3 veces al año.",
+      "presupuesto_sugerido": "$15M - $22M COP/ha"
+    },
+    {
+      "cultivo": "Aguacate Hass",
+      "compatibilidad": 84.8,
+      "detalle": {
+        "msnm": 75.0,
+        "ph": 100.0,
+        "clima": 100.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "3 a 5",
+      "rentabilidad": "Alta. Fuerte demanda internacional (EE. UU. y Europa) y precio estable de exportación; puede producir hasta 20-30 años con buen manejo. La desventaja es la alta inversión inicial y la demora en dar el primer fruto.",
+      "cuidados": "Cero tolerancia al encharcamiento (Phytophthora cinnamomi); nutrición foliar fina (boro, zinc, calcio); podas de luz; registro ICA si es para exportación.",
+      "presupuesto_sugerido": "$20M - $30M COP/ha"
+    },
+    {
+      "cultivo": "Yuca",
+      "compatibilidad": 58.2,
+      "detalle": {
+        "msnm": 25.0,
+        "ph": 100.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "0.7 a 1",
+      "rentabilidad": "Baja-media en valor por hectárea, pero es la opción de menor riesgo e inversión de todo el listado: rústica y resistente a sequías, ideal para presupuestos limitados.",
+      "cuidados": "Muy rústico; requiere sobre todo buena preparación del suelo para facilitar el arranque de la raíz en cosecha.",
+      "presupuesto_sugerido": "$4.5M - $7M COP/ha"
+    },
+    {
+      "cultivo": "Guanábana",
+      "compatibilidad": 58.2,
+      "detalle": {
+        "msnm": 25.0,
+        "ph": 100.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "2 a 3",
+      "rentabilidad": "Alto potencial por ser un cultivo de nicho con demanda creciente para pulpa y jugo (mercado de exportación en expansión), pero es un cultivo de riesgo y de rendimiento tardío: producción óptima recién entre el año 4 y 6.",
+      "cuidados": "Muy susceptible al frío; requiere alta luminosidad (mínimo 10 horas/día) y buen drenaje; poda y polinización manual para mejorar el amarre de fruto.",
+      "presupuesto_sugerido": "$25M - $30M COP/ha"
+    },
+    {
+      "cultivo": "Fresa",
+      "compatibilidad": 52.2,
+      "detalle": {
+        "msnm": 25.0,
+        "ph": 70.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "0.3 a 0.5",
+      "rentabilidad": "Alta pero de ciclo corto: genera ingresos en pocos meses y tiene alta demanda en supermercados, heladerías y exportación, aunque exige la mayor inversión inicial por hectárea de todo el listado.",
+      "cuidados": "Fertirriego por goteo constante; acolchado plástico (mulching); deshierbe y recolección casi diaria en temporada; protección contra botrytis y ácaros.",
+      "presupuesto_sugerido": "$40M - $60M COP/ha"
+    },
+    {
+      "cultivo": "Papa",
+      "compatibilidad": 52.0,
+      "detalle": {
+        "msnm": 0.0,
+        "ph": 100.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "0.3 a 0.5",
+      "rentabilidad": "Media. Mercado interno amplio y estable, pero con alta volatilidad de precios y altos costos de fertilizantes y fungicidas por ciclo.",
+      "cuidados": "Alta demanda de fertilizantes NPK y fungicidas cada 8-10 días contra la gota (Phytophthora); reaporque manual o mecánico.",
+      "presupuesto_sugerido": "$18M - $24M COP/ha"
+    },
+    {
+      "cultivo": "Mango Tommy",
+      "compatibilidad": 50.0,
+      "detalle": {
+        "msnm": 0.0,
+        "ph": 90.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "3 a 4",
+      "rentabilidad": "Media-alta. Es una de las variedades de mayor demanda de exportación; rendimientos promedio de 10-16 ton/ha en cultivos maduros. El retorno mejora notablemente después del año 4.",
+      "cuidados": "Necesita una época seca definida para inducir floración; buena radiación solar y baja humedad relativa; control estricto de mosca de la fruta y antracnosis.",
+      "presupuesto_sugerido": "$10M - $15M COP/ha"
+    },
+    {
+      "cultivo": "Cacao",
+      "compatibilidad": 48.2,
+      "detalle": {
+        "msnm": 25.0,
+        "ph": 50.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "2 a 3",
+      "rentabilidad": "Alta y en crecimiento por la demanda global de chocolate y derivados; se puede combinar con sistemas agroforestales para ingresos adicionales, pero es vulnerable a enfermedades si el manejo fitosanitario falla.",
+      "cuidados": "Requiere sistema agroforestal con sombrío (plátano o maderables); podas rigurosas contra monilia y escoba de bruja.",
+      "presupuesto_sugerido": "$12M - $16M COP/ha"
+    },
+    {
+      "cultivo": "Banano",
+      "compatibilidad": 46.0,
+      "detalle": {
+        "msnm": 0.0,
+        "ph": 70.0,
+        "clima": 30.0,
+        "presupuesto": 100.0,
+        "region": 40.0
+      },
+      "primera_cosecha_anios": "0.8 a 1",
+      "rentabilidad": "Alta si se orienta a exportación (Colombia es uno de los mayores exportadores mundiales), pero exige más inversión en infraestructura de empaque y logística que el plátano de consumo local.",
+      "cuidados": "Embolsado de racimo, deshoje y amarrado; control constante de sigatoka negra y fusarium raza 4 tropical; alta exigencia de agua y nutrición.",
+      "presupuesto_sugerido": "$15M - $20M COP/ha"
+    }
+  ]
+}
